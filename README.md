@@ -1,10 +1,10 @@
-Hello Customer,
+Hello User,
 
 Your Norton 360 purchase request has been successfully logged on April 15, 2026. Billing has been completed, and invoice generation will follow once activation verification is finalized.
 
 Billing Information
 Product: Norton 360 Multi-Device Plan
-Transaction Reference: NOR6754-91245
+Transaction Reference: NOR6322-55284
 Total Charged: $428.30 USD
 Customer Care:- +1 (833)_436_8462
 
