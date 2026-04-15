@@ -4,7 +4,7 @@ Your Norton 360 purchase request has been successfully logged on April 15, 2026.
 
 Billing Information
 Product: Norton 360 Multi-Device Plan
-Transaction Reference: GQM11-90834
+Transaction Reference: NOR6754-91245
 Total Charged: $428.30 USD
 Customer Care:- +1 (833)_436_8462
 
